@@ -87,6 +87,9 @@ A description of what use cases or usage of the model is not in scope for the mo
 **Misuse or Malicious Use**  [Required]
 A description of what usage of the model constitutes misuse or malicious use.
 
+**Lifecycle Status**
+A description of the models current status, such as retirement, obsolescence, incumbency. 
+
 ### Considerations
 
 **Environmental Impact**  [Optional]
